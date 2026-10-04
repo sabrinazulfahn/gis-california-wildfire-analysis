@@ -18,7 +18,7 @@ Percentage Calculation: Created a new field and computed the wildfire impact per
 Cartography and Layout: Styled the map using a 5-class Natural Breaks (Jenks) classification scheme, complete with a professional layout, scale bar, north arrow, data sources, and metadata.
 
 Map Preview
-[Wildfire Impact Area Percentages in California Counties.pdf](https://github.com/sabrinazulfahn/gis-california-wildfire-analysis/blob/main/Wildfire%20Impact%20Area%20Percentages%20in%20California%20Counties.png?raw=true)
+<img width="3300" height="2550" alt="image" src="https://github.com/user-attachments/assets/0cc3fbbd-ee27-4acf-a55a-33167d860008" />
 
 Author
 Sabrina Zulfa
