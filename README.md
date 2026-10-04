@@ -19,6 +19,5 @@ Cartography and Layout: Styled the map using a 5-class Natural Breaks (Jenks) cl
 
 Map Preview
 
-
 Author
 Sabrina Zulfa
