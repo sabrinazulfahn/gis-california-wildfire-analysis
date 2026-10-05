@@ -1,7 +1,7 @@
 GIS Spatial Analysis: Wildfire Impact Area Percentages in California Counties
 
 Project Overview
-This project is part of the Fundamentals of GIS specialization course from the University of California, Davis. The objective is to perform spatial data processing and vector analysis using ArcGIS Pro to calculate the percentage of land area affected by wildfires across California counties.
+This project is part of GIS specialization from the University of California, Davis. The objective is to perform spatial data processing and vector analysis using ArcGIS Pro to calculate the percentage of land area affected by wildfires across California counties.
 
 Tools and Skills Applied
 Software: ArcGIS Pro
